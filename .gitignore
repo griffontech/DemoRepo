@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 ```python
+#config.py file
+api_key.py
 # .DS_Store
 .DS_Store
 ```
