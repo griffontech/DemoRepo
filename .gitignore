@@ -9,6 +9,7 @@ __pycache__/
 ```python
 #config.py file
 api_key.py
+```
 # .DS_Store
 .DS_Store
 ```
